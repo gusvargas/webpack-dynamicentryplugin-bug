@@ -1,6 +1,6 @@
 module.exports = {
   // Function entry to cause DynamicEntryPlugin to be applied
-  entry: () => "foo",
+  entry: () => ({}),
 
   plugins: [
     {
