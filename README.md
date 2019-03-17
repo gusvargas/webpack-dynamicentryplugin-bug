@@ -1,5 +1,5 @@
 # webpack-dynamicentryplugin-bug
-Reproduce a bug in webpack@4.29.6
+Reproduce https://github.com/webpack/webpack/issues/8868
 
 ```
 $ yarn
